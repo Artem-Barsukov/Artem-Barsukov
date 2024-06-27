@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Artem Barsukov</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28" /></h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22" /></h1>
 
 
 <!--

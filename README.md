@@ -23,7 +23,7 @@ I'm a python developer, I translate ideas into code. It's great if we can work o
 <h3>Contacts</h3>
 
 <p align="left">      
-      <a href="https://career.habr.com/artem-olegovich12)">
+      <a href="https://career.habr.com/artem-olegovich12">
          <img alt="Habr" title="My Habr resume" src="https://custom-icon-badges.demolab.com/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/artem-barsuko-nn/">
          <img alt="LinkedIn" title="My LinkedIn resume" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -32,3 +32,7 @@ I'm a python developer, I translate ideas into code. It's great if we can work o
       <a href="mailto:barsukao@gmail.com">
          <img alt="Gmail" title="My email address" src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
    </p>
+
+<h3>Github Stats</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Barsukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
